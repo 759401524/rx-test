@@ -1212,8 +1212,7 @@
     <prescription type="service" class="com.aligame.gamecenter.api.service.GameCenterService" sender="any"/>
     <prescription type="service" class="sogou.mobile.explorer.hotwords.browser.HotwordsSemobWakeUpService" sender="any"/>
     <prescription type="service" class="com.tmall.wireless.messagebox.receiver.TMMsgboxRegisterService" sender="any"/>
-    <prescription type="service" class="cooperation.qqpim.QQPimPluginProxyService" sender="any"/>
-    <prescription type="service" class="com.alipay.android.app.MspService" sender="any"/>
+    <prescription type="service" class="cooperation.qqpim.QQPimPluginProxyService" sender="any"/>  
     <prescription type="service" class="com.uc.base.push.dex.PushFriendBridge" sender="any"/>
     <prescription type="service" class="com.douyu.push.platform.getui.GetuiMessageHandleService" sender="any"/>
     <prescription type="service" class="com.tencent.news.dynamicload.internal.DLAbsPluginService" sender="any"/>
